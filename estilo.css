@@ -1,0 +1,15 @@
+
+    body{
+        background-image: url("imag/neur.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+    
+    h1{ 
+        font-size: 50px;
+        color: #26734d;
+    }
+        p{
+            text-align: justify;
+        }
+   

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8"
+    
+    <title>Pagina web sistemas de información </title>
+    
+
+</head>
+<body>
+<center> <h1> Software</h1></center>
+<center> <h2> Más información</h2></center>
+<center> <img src="imag/ppal" width="800px"></center>
+<center> <h2> ¿Qué es un sistema de información? </h2></center>
+<p> Es un conjunto de componetes interconectados que recolectan
+    o recuperan, procesan, almacenan y distribuyen información para apoyar a los procesos de toma de
+    decisiones en una organización.
+
+     Teniendo esto claro, es de gran relevancia preguntarse: ¿cuáles son las ctividades de un sistema de información?
+
+    Un sistema de información cuenta con:
+    Una entrada: aquí específicamente ingresan datos del mundo como edad, sexo, clores, números de teléfono, etc.
+    Procesamiento: a grosso modo significa transformar los datos y darles un valor agregado.
+    Salida: permite distribuir la infromación generada en el sistema a quien la requiera
+    Almacenamiento: es decir, la información se guarad en archivos
+    Retroalimentación y control: todo lo que sale del sistema de información debe ser verificado y a su vez
+    monitoreado con el fin de revisar si cumple con los objetivos propuestos inicialmente
+
+    Así las cosas, en un sistema de información se ingresan datos luego, son transformados para posteriormente,
+    salir información, el fin de esta última es servir de apoyo a la toma de decisiones
+
+    Ahora, ¿Cuáles son los elemtos de un sistema de información?
+    Generalmente, este se conforma de datos procedimeintos, recurso humano, recursos tecnológicos
+    dentro de los que se encuentran: redes, hardware y Software siendo este último el objetivo de esta página</p>
+</body>
+</html>
